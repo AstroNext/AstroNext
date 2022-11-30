@@ -4,6 +4,18 @@
 - 💬 Ask me about ESX and Fivem
 - 📫 How to reach me: [Discord](https://discord.com/channels/@me/440702426765590529/)
 
+<hr/>
+<details>
+  <summary><b>&#x1f4c8; GitHub Statistics</b></summary>
+  <div>
+    <img height="135px" width="400px" src="https://github-readme-stats.vercel.app/api?username=AstroNext&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" />
+    <img height="135px" width="362px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroNext&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
+  </div>
+  <div>
+    <img height="250px" width="770px" src="https://activity-graph.herokuapp.com/graph?username=ali-moments&theme=react-dark&area=true" />
+  </div>
+</details>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroNext&show_icons=true&theme=radical)
 
 <!--
