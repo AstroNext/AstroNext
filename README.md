@@ -12,11 +12,9 @@
     <img height="135px" width="362px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AstroNext&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" />
   </div>
   <div>
-    <img height="250px" width="770px" src="https://activity-graph.herokuapp.com/graph?username=ali-moments&theme=react-dark&area=true" />
+    <img height="250px" width="770px" src="https://activity-graph.herokuapp.com/graph?username=AstroNext&theme=react-dark&area=true" />
   </div>
 </details>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroNext&show_icons=true&theme=radical)
 
 <!--
 **AstroNext/AstroNext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
