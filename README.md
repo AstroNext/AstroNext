@@ -4,6 +4,8 @@
 - 💬 Ask me about ESX and Fivem
 - 📫 How to reach me: [Discord](https://discord.com/channels/@me/440702426765590529/)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AstroNext&show_icons=true&theme=radical)
+
 <!--
 **AstroNext/AstroNext** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
