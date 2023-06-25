@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JS and Ts
 - 💬 Ask me about ESX and Fivem
 - 📫 How to reach me: [Discord](https://discord.com/channels/@me/440702426765590529/)
 
