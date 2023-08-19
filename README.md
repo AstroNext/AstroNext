@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning JS and Ts
-- 💬 Ask me about ESX and Fivem
+- 🌱 I’m currently learning Ts
+- 💬 Ask me about Discord.js, EJS and Fivem frameworks
 - 📫 How to reach me: [Discord](https://discord.com/channels/@me/440702426765590529/)
 
 
